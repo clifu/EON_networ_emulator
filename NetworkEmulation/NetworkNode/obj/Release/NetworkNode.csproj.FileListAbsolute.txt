@@ -1,0 +1,11 @@
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\NetworkNode\bin\Release\NetworkNode.exe.config
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\NetworkNode\bin\Release\NetworkNode.exe
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\NetworkNode\bin\Release\NetworkNode.pdb
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\NetworkNode\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\NetworkNode\bin\Release\NetworkCableCloud.exe
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\NetworkNode\bin\Release\NetworkingTools.exe
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\NetworkNode\bin\Release\NetworkCableCloud.pdb
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\NetworkNode\bin\Release\NetworkingTools.pdb
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\NetworkNode\obj\Release\NetworkNode.csprojResolveAssemblyReference.cache
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\NetworkNode\obj\Release\NetworkNode.exe
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\NetworkNode\obj\Release\NetworkNode.pdb

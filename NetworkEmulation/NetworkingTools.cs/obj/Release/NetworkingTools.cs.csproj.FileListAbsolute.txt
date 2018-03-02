@@ -1,0 +1,7 @@
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\NetworkingTools.cs\bin\Release\NetworkingTools.exe.config
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\NetworkingTools.cs\bin\Release\NetworkingTools.exe
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\NetworkingTools.cs\bin\Release\NetworkingTools.pdb
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\NetworkingTools.cs\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\NetworkingTools.cs\obj\Release\NetworkingTools.cs.csprojResolveAssemblyReference.cache
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\NetworkingTools.cs\obj\Release\NetworkingTools.exe
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\NetworkingTools.cs\obj\Release\NetworkingTools.pdb

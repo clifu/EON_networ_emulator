@@ -1,0 +1,240 @@
+C:\Users\Damian\Desktop\zst\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe.config
+C:\Users\Damian\Desktop\zst\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe
+C:\Users\Damian\Desktop\zst\NetworkEmulation\ClientNode\bin\Debug\ClientNode.pdb
+C:\Users\Damian\Desktop\zst\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\zst\NetworkEmulation\ClientNode\obj\Debug\ClientNode.Form1.resources
+C:\Users\Damian\Desktop\zst\NetworkEmulation\ClientNode\obj\Debug\ClientNode.Properties.Resources.resources
+C:\Users\Damian\Desktop\zst\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csproj.GenerateResource.Cache
+C:\Users\Damian\Desktop\zst\NetworkEmulation\ClientNode\obj\Debug\ClientNode.exe
+C:\Users\Damian\Desktop\zst\NetworkEmulation\ClientNode\obj\Debug\ClientNode.pdb
+C:\Users\Damian\Desktop\TSST nasz\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe.config
+C:\Users\Damian\Desktop\TSST nasz\NetworkEmulation\ClientNode\obj\Debug\ClientNode.exe
+C:\Users\Damian\Desktop\TSST nasz\NetworkEmulation\ClientNode\obj\Debug\ClientNode.pdb
+C:\Users\Damian\Desktop\TSST nasz\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe
+C:\Users\Damian\Desktop\TSST nasz\NetworkEmulation\ClientNode\bin\Debug\ClientNode.pdb
+C:\Users\Damian\Desktop\TSST nasz\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\TSST nasz\NetworkEmulation\ClientNode\obj\Debug\ClientNode.Form1.resources
+C:\Users\Damian\Desktop\TSST nasz\NetworkEmulation\ClientNode\obj\Debug\ClientNode.Properties.Resources.resources
+C:\Users\Damian\Desktop\TSST nasz\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\NetworkCableCloud\ClientNode\bin\Debug\ClientNode.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\NetworkCableCloud\ClientNode\obj\Debug\ClientNode.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\NetworkCableCloud\ClientNode\obj\Debug\ClientNode.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\NetworkCableCloud\ClientNode\bin\Debug\ClientNode.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\NetworkCableCloud\ClientNode\bin\Debug\ClientNode.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\NetworkCableCloud\ClientNode\obj\Debug\ClientNode.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\NetworkCableCloud\ClientNode\obj\Debug\ClientNode.Form1.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\NetworkCableCloud\ClientNode\obj\Debug\ClientNode.Properties.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\NetworkCableCloud\ClientNode\obj\Debug\ClientNode.csproj.GenerateResource.Cache
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe.config
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST\NetworkEmulation\ClientNode\obj\Debug\ClientNode.exe
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST\NetworkEmulation\ClientNode\obj\Debug\ClientNode.pdb
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST\NetworkEmulation\ClientNode\bin\Debug\ClientNode.pdb
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csprojResolveAssemblyReference.cache
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST\NetworkEmulation\ClientNode\obj\Debug\ClientNode.Form1.resources
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST\NetworkEmulation\ClientNode\obj\Debug\ClientNode.Properties.Resources.resources
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csproj.GenerateResource.Cache
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST\NetworkEmulation\ClientNode\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.exe
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.pdb
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe.config
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\ClientNode\obj\Debug\ClientNode.exe
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\ClientNode\obj\Debug\ClientNode.pdb
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\ClientNode\bin\Debug\ClientNode.pdb
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csprojResolveAssemblyReference.cache
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\ClientNode\obj\Debug\ClientNode.Properties.Resources.resources
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csproj.GenerateResource.Cache
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\ClientNode\obj\Debug\ClientNode.ClientApplication.resources
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\ClientNode\obj\Debug\ClientNode.StartClientApplication.resources
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.exe
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\ClientNode\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.pdb
+E:\SEMESTR 5\TSST\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe.config
+E:\SEMESTR 5\TSST\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe
+E:\SEMESTR 5\TSST\NetworkEmulation\ClientNode\bin\Debug\ClientNode.pdb
+E:\SEMESTR 5\TSST\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.exe
+E:\SEMESTR 5\TSST\NetworkEmulation\ClientNode\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\SEMESTR 5\TSST\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.pdb
+E:\SEMESTR 5\TSST\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csprojResolveAssemblyReference.cache
+E:\SEMESTR 5\TSST\NetworkEmulation\ClientNode\obj\Debug\ClientNode.ClientApplication.resources
+E:\SEMESTR 5\TSST\NetworkEmulation\ClientNode\obj\Debug\ClientNode.Properties.Resources.resources
+E:\SEMESTR 5\TSST\NetworkEmulation\ClientNode\obj\Debug\ClientNode.StartClientApplication.resources
+E:\SEMESTR 5\TSST\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csproj.GenerateResource.Cache
+E:\SEMESTR 5\TSST\NetworkEmulation\ClientNode\obj\Debug\ClientNode.exe
+E:\SEMESTR 5\TSST\NetworkEmulation\ClientNode\obj\Debug\ClientNode.pdb
+C:\Users\Damian\Desktop\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe.config
+C:\Users\Damian\Desktop\NetworkEmulation\ClientNode\obj\Debug\ClientNode.exe
+C:\Users\Damian\Desktop\NetworkEmulation\ClientNode\obj\Debug\ClientNode.pdb
+C:\Users\Damian\Desktop\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe
+C:\Users\Damian\Desktop\NetworkEmulation\ClientNode\bin\Debug\ClientNode.pdb
+C:\Users\Damian\Desktop\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.exe
+C:\Users\Damian\Desktop\NetworkEmulation\ClientNode\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Damian\Desktop\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.pdb
+C:\Users\Damian\Desktop\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\NetworkEmulation\ClientNode\obj\Debug\ClientNode.ClientApplication.resources
+C:\Users\Damian\Desktop\NetworkEmulation\ClientNode\obj\Debug\ClientNode.Properties.Resources.resources
+C:\Users\Damian\Desktop\NetworkEmulation\ClientNode\obj\Debug\ClientNode.StartClientApplication.resources
+C:\Users\Damian\Desktop\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csproj.GenerateResource.Cache
+E:\Piotr\Programowanie\C#\TSST-Project\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe.config
+E:\Piotr\Programowanie\C#\TSST-Project\NetworkEmulation\ClientNode\obj\Debug\ClientNode.exe
+E:\Piotr\Programowanie\C#\TSST-Project\NetworkEmulation\ClientNode\obj\Debug\ClientNode.pdb
+E:\Piotr\Programowanie\C#\TSST-Project\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe
+E:\Piotr\Programowanie\C#\TSST-Project\NetworkEmulation\ClientNode\bin\Debug\ClientNode.pdb
+E:\Piotr\Programowanie\C#\TSST-Project\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.exe
+E:\Piotr\Programowanie\C#\TSST-Project\NetworkEmulation\ClientNode\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Piotr\Programowanie\C#\TSST-Project\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.pdb
+E:\Piotr\Programowanie\C#\TSST-Project\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csprojResolveAssemblyReference.cache
+E:\Piotr\Programowanie\C#\TSST-Project\NetworkEmulation\ClientNode\obj\Debug\ClientNode.ClientApplication.resources
+E:\Piotr\Programowanie\C#\TSST-Project\NetworkEmulation\ClientNode\obj\Debug\ClientNode.Properties.Resources.resources
+E:\Piotr\Programowanie\C#\TSST-Project\NetworkEmulation\ClientNode\obj\Debug\ClientNode.StartClientApplication.resources
+E:\Piotr\Programowanie\C#\TSST-Project\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csproj.GenerateResource.Cache
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe.config
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\obj\Debug\ClientNode.exe
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\obj\Debug\ClientNode.pdb
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\bin\Debug\ClientNode.pdb
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.exe
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.pdb
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csprojResolveAssemblyReference.cache
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\obj\Debug\ClientNode.ClientApplication.resources
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\obj\Debug\ClientNode.Properties.Resources.resources
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\obj\Debug\ClientNode.StartClientApplication.resources
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csproj.GenerateResource.Cache
+E:\Users\Paweł\Desktop\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe.config
+E:\Users\Paweł\Desktop\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\obj\Debug\ClientNode.exe
+E:\Users\Paweł\Desktop\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\obj\Debug\ClientNode.pdb
+E:\Users\Paweł\Desktop\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe
+E:\Users\Paweł\Desktop\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\bin\Debug\ClientNode.pdb
+E:\Users\Paweł\Desktop\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Users\Paweł\Desktop\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.exe
+E:\Users\Paweł\Desktop\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.pdb
+E:\Users\Paweł\Desktop\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csprojResolveAssemblyReference.cache
+E:\Users\Paweł\Desktop\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\obj\Debug\ClientNode.ClientApplication.resources
+E:\Users\Paweł\Desktop\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\obj\Debug\ClientNode.Properties.Resources.resources
+E:\Users\Paweł\Desktop\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\obj\Debug\ClientNode.StartClientApplication.resources
+E:\Users\Paweł\Desktop\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csproj.GenerateResource.Cache
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe.config
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\obj\Debug\ClientNode.exe
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\obj\Debug\ClientNode.pdb
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\bin\Debug\ClientNode.pdb
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.exe
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.pdb
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\obj\Debug\ClientNode.ClientApplication.resources
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\obj\Debug\ClientNode.Properties.Resources.resources
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\obj\Debug\ClientNode.StartClientApplication.resources
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csproj.GenerateResource.Cache
+C:\Users\Paweł\Dropbox\tsst-project\PAWEŁ TUTAJ\Paweł - poprawiona wersja\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe.config
+C:\Users\Paweł\Dropbox\tsst-project\PAWEŁ TUTAJ\Paweł - poprawiona wersja\NetworkEmulation\ClientNode\obj\Debug\ClientNode.exe
+C:\Users\Paweł\Dropbox\tsst-project\PAWEŁ TUTAJ\Paweł - poprawiona wersja\NetworkEmulation\ClientNode\obj\Debug\ClientNode.pdb
+C:\Users\Paweł\Dropbox\tsst-project\PAWEŁ TUTAJ\Paweł - poprawiona wersja\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csprojResolveAssemblyReference.cache
+C:\Users\Paweł\Dropbox\tsst-project\PAWEŁ TUTAJ\Paweł - poprawiona wersja\NetworkEmulation\ClientNode\obj\Debug\ClientNode.ClientApplication.resources
+C:\Users\Paweł\Dropbox\tsst-project\PAWEŁ TUTAJ\Paweł - poprawiona wersja\NetworkEmulation\ClientNode\obj\Debug\ClientNode.Properties.Resources.resources
+C:\Users\Paweł\Dropbox\tsst-project\PAWEŁ TUTAJ\Paweł - poprawiona wersja\NetworkEmulation\ClientNode\obj\Debug\ClientNode.StartClientApplication.resources
+C:\Users\Paweł\Dropbox\tsst-project\PAWEŁ TUTAJ\Paweł - poprawiona wersja\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csproj.GenerateResource.Cache
+C:\Users\Paweł\Dropbox\tsst-project\PAWEŁ TUTAJ\Paweł - poprawiona wersja\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe
+C:\Users\Paweł\Dropbox\tsst-project\PAWEŁ TUTAJ\Paweł - poprawiona wersja\NetworkEmulation\ClientNode\bin\Debug\ClientNode.pdb
+C:\Users\Paweł\Dropbox\tsst-project\PAWEŁ TUTAJ\Paweł - poprawiona wersja\NetworkEmulation\ClientNode\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Paweł\Dropbox\tsst-project\PAWEŁ TUTAJ\Paweł - poprawiona wersja\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.exe
+C:\Users\Paweł\Dropbox\tsst-project\PAWEŁ TUTAJ\Paweł - poprawiona wersja\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.pdb
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csprojResolveAssemblyReference.cache
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.ClientApplication.resources
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.Properties.Resources.resources
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.StartClientApplication.resources
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csproj.GenerateResource.Cache
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.exe
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.pdb
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe.config
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\ClientNode\bin\Debug\ClientNode.pdb
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\ClientNode\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.exe
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.pdb
+C:\Users\Daniel\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe.config
+C:\Users\Daniel\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.exe
+C:\Users\Daniel\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.pdb
+C:\Users\Daniel\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe
+C:\Users\Daniel\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\bin\Debug\ClientNode.pdb
+C:\Users\Daniel\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Daniel\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.exe
+C:\Users\Daniel\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.pdb
+C:\Users\Daniel\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.ClientApplication.resources
+C:\Users\Daniel\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.Properties.Resources.resources
+C:\Users\Daniel\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.StartClientApplication.resources
+C:\Users\Daniel\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csproj.GenerateResource.Cache
+C:\Users\Paweł\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe.config
+C:\Users\Paweł\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe
+C:\Users\Paweł\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\bin\Debug\ClientNode.pdb
+C:\Users\Paweł\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Paweł\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.exe
+C:\Users\Paweł\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.pdb
+C:\Users\Paweł\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csprojResolveAssemblyReference.cache
+C:\Users\Paweł\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.ClientApplication.resources
+C:\Users\Paweł\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.Properties.Resources.resources
+C:\Users\Paweł\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.StartClientApplication.resources
+C:\Users\Paweł\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csproj.GenerateResource.Cache
+C:\Users\Paweł\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.exe
+C:\Users\Paweł\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.pdb
+C:\Users\Damian\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.ClientApplication.resources
+C:\Users\Damian\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.Properties.Resources.resources
+C:\Users\Damian\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.StartClientApplication.resources
+C:\Users\Damian\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csproj.GenerateResource.Cache
+C:\Users\Damian\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.exe
+C:\Users\Damian\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.pdb
+C:\Users\Damian\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe.config
+C:\Users\Damian\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe
+C:\Users\Damian\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\bin\Debug\ClientNode.pdb
+C:\Users\Damian\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Damian\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.exe
+C:\Users\Damian\Dropbox\tsst-project\Sklejany\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.pdb
+C:\Users\Damian\Desktop\TEST TEESTES\Sklejany 16-01\Sklejany\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe.config
+C:\Users\Damian\Desktop\TEST TEESTES\Sklejany 16-01\Sklejany\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe
+C:\Users\Damian\Desktop\TEST TEESTES\Sklejany 16-01\Sklejany\NetworkEmulation\ClientNode\bin\Debug\ClientNode.pdb
+C:\Users\Damian\Desktop\TEST TEESTES\Sklejany 16-01\Sklejany\NetworkEmulation\ClientNode\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Damian\Desktop\TEST TEESTES\Sklejany 16-01\Sklejany\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.exe
+C:\Users\Damian\Desktop\TEST TEESTES\Sklejany 16-01\Sklejany\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.pdb
+C:\Users\Damian\Desktop\TEST TEESTES\Sklejany 16-01\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\TEST TEESTES\Sklejany 16-01\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.ClientApplication.resources
+C:\Users\Damian\Desktop\TEST TEESTES\Sklejany 16-01\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.Properties.Resources.resources
+C:\Users\Damian\Desktop\TEST TEESTES\Sklejany 16-01\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.StartClientApplication.resources
+C:\Users\Damian\Desktop\TEST TEESTES\Sklejany 16-01\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csproj.GenerateResource.Cache
+C:\Users\Damian\Desktop\TEST TEESTES\Sklejany 16-01\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.exe
+C:\Users\Damian\Desktop\TEST TEESTES\Sklejany 16-01\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.pdb
+C:\Users\Daniel\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe.config
+C:\Users\Daniel\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.exe
+C:\Users\Daniel\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.pdb
+C:\Users\Paweł\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe.config
+C:\Users\Paweł\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.exe
+C:\Users\Paweł\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.pdb
+C:\Users\Damian\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe.config
+C:\Users\Damian\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.exe
+C:\Users\Damian\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.pdb
+C:\Users\Paweł\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe
+C:\Users\Paweł\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\bin\Debug\ClientNode.pdb
+C:\Users\Paweł\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Paweł\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.exe
+C:\Users\Paweł\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.pdb
+C:\Users\Paweł\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csprojResolveAssemblyReference.cache
+C:\Users\Paweł\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.ClientApplication.resources
+C:\Users\Paweł\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.Properties.Resources.resources
+C:\Users\Paweł\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.StartClientApplication.resources
+C:\Users\Paweł\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csproj.GenerateResource.Cache
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe.config
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\bin\Debug\ClientNode.exe
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\bin\Debug\ClientNode.pdb
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.exe
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\bin\Debug\NetworkingTools.pdb
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csprojResolveAssemblyReference.cache
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.ClientApplication.resources
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.Properties.Resources.resources
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.StartClientApplication.resources
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.csproj.GenerateResource.Cache
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.exe
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\DANIEL\Sklejany\NetworkEmulation\ClientNode\obj\Debug\ClientNode.pdb

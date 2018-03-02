@@ -1,0 +1,57 @@
+E:\SEMESTR 5\TSST\NCC\NCC\bin\Debug\NCC.exe.config
+E:\SEMESTR 5\TSST\NCC\NCC\bin\Debug\NCC.exe
+E:\SEMESTR 5\TSST\NCC\NCC\bin\Debug\NCC.pdb
+E:\SEMESTR 5\TSST\NCC\NCC\obj\Debug\NCC.csprojResolveAssemblyReference.cache
+E:\SEMESTR 5\TSST\NCC\NCC\obj\Debug\NCC.exe
+E:\SEMESTR 5\TSST\NCC\NCC\obj\Debug\NCC.pdb
+E:\SEMESTR 5\TSST\NCC\NCC\bin\Debug\NetworkingTools.exe
+E:\SEMESTR 5\TSST\NCC\NCC\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\SEMESTR 5\TSST\NCC\NCC\bin\Debug\NetworkingTools.pdb
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\NCC\bin\Debug\NCC.exe.config
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\NCC\obj\Debug\NCC.exe
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\NCC\obj\Debug\NCC.pdb
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\NCC\bin\Debug\NCC.exe
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\NCC\bin\Debug\NCC.pdb
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\NCC\bin\Debug\NetworkingTools.exe
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\NCC\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\NCC\bin\Debug\NetworkingTools.pdb
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\NCC\obj\Debug\NCC.csprojResolveAssemblyReference.cache
+E:\Users\Paweł\Desktop\Piotrek - lepiej działający router\NetworkEmulation\NCC\bin\Debug\NCC.exe.config
+E:\Users\Paweł\Desktop\Piotrek - lepiej działający router\NetworkEmulation\NCC\obj\Debug\NCC.exe
+E:\Users\Paweł\Desktop\Piotrek - lepiej działający router\NetworkEmulation\NCC\obj\Debug\NCC.pdb
+E:\Users\Paweł\Desktop\Piotrek - lepiej działający router\NetworkEmulation\NCC\bin\Debug\NCC.exe
+E:\Users\Paweł\Desktop\Piotrek - lepiej działający router\NetworkEmulation\NCC\bin\Debug\NCC.pdb
+E:\Users\Paweł\Desktop\Piotrek - lepiej działający router\NetworkEmulation\NCC\bin\Debug\NetworkingTools.exe
+E:\Users\Paweł\Desktop\Piotrek - lepiej działający router\NetworkEmulation\NCC\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Users\Paweł\Desktop\Piotrek - lepiej działający router\NetworkEmulation\NCC\bin\Debug\NetworkingTools.pdb
+E:\Users\Paweł\Desktop\Piotrek - lepiej działający router\NetworkEmulation\NCC\obj\Debug\NCC.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\NCC\bin\Debug\NCC.exe.config
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\NCC\bin\Debug\NCC.exe
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\NCC\bin\Debug\NCC.pdb
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\NCC\bin\Debug\NetworkingTools.exe
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\NCC\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\NCC\bin\Debug\NetworkingTools.pdb
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\NCC\obj\Debug\NCC.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\NCC\obj\Debug\NCC.exe
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\NCC\obj\Debug\NCC.pdb
+C:\Users\Paweł\Dropbox\tsst-project\PAWEŁ TUTAJ\Paweł - poprawiona wersja\NetworkEmulation\NCC\bin\Debug\NCC.exe.config
+C:\Users\Paweł\Dropbox\tsst-project\PAWEŁ TUTAJ\Paweł - poprawiona wersja\NetworkEmulation\NCC\obj\Debug\NCC.exe
+C:\Users\Paweł\Dropbox\tsst-project\PAWEŁ TUTAJ\Paweł - poprawiona wersja\NetworkEmulation\NCC\obj\Debug\NCC.pdb
+C:\Users\Paweł\Dropbox\tsst-project\PAWEŁ TUTAJ\Paweł - poprawiona wersja\NetworkEmulation\NCC\obj\Debug\NCC.csprojResolveAssemblyReference.cache
+C:\Users\Paweł\Dropbox\tsst-project\PAWEŁ TUTAJ\Paweł - poprawiona wersja\NetworkEmulation\NCC\bin\Debug\NCC.exe
+C:\Users\Paweł\Dropbox\tsst-project\PAWEŁ TUTAJ\Paweł - poprawiona wersja\NetworkEmulation\NCC\bin\Debug\NCC.pdb
+C:\Users\Paweł\Dropbox\tsst-project\PAWEŁ TUTAJ\Paweł - poprawiona wersja\NetworkEmulation\NCC\bin\Debug\NetworkingTools.exe
+C:\Users\Paweł\Dropbox\tsst-project\PAWEŁ TUTAJ\Paweł - poprawiona wersja\NetworkEmulation\NCC\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Paweł\Dropbox\tsst-project\PAWEŁ TUTAJ\Paweł - poprawiona wersja\NetworkEmulation\NCC\bin\Debug\NetworkingTools.pdb
+C:\Users\Daniel\Dropbox\tsst-project\Sklejany\NetworkEmulation\NCC\bin\Debug\NCC.exe.config
+C:\Users\Daniel\Dropbox\tsst-project\Sklejany\NetworkEmulation\NCC\obj\Debug\NCC.exe
+C:\Users\Daniel\Dropbox\tsst-project\Sklejany\NetworkEmulation\NCC\obj\Debug\NCC.pdb
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\NCC\bin\Debug\NCC.exe.config
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\NCC\obj\Debug\NCC.exe
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\NCC\obj\Debug\NCC.pdb
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\NCC\obj\Debug\NCC.csprojResolveAssemblyReference.cache
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\NCC\bin\Debug\NCC.exe
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\NCC\bin\Debug\NCC.pdb
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\NCC\bin\Debug\NetworkingTools.exe
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\NCC\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\NCC\bin\Debug\NetworkingTools.pdb

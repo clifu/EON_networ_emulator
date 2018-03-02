@@ -1,0 +1,12 @@
+E:\Piotr\Programowanie\C#\TSST-Project.git\branches\Piotrek\NetworkEmulation\NetworkNode.cs\bin\Debug\NetworkNode.cs.exe.config
+E:\Piotr\Programowanie\C#\TSST-Project.git\branches\Piotrek\NetworkEmulation\NetworkNode.cs\bin\Debug\NetworkNode.cs.exe
+E:\Piotr\Programowanie\C#\TSST-Project.git\branches\Piotrek\NetworkEmulation\NetworkNode.cs\bin\Debug\NetworkNode.cs.pdb
+E:\Piotr\Programowanie\C#\TSST-Project.git\branches\Piotrek\NetworkEmulation\NetworkNode.cs\obj\Debug\NetworkNode.cs.csprojResolveAssemblyReference.cache
+E:\Piotr\Programowanie\C#\TSST-Project.git\branches\Piotrek\NetworkEmulation\NetworkNode.cs\obj\Debug\NetworkNode.cs.exe
+E:\Piotr\Programowanie\C#\TSST-Project.git\branches\Piotrek\NetworkEmulation\NetworkNode.cs\obj\Debug\NetworkNode.cs.pdb
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\NetworkNode.cs\bin\Debug\NetworkNode.cs.exe.config
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\NetworkNode.cs\bin\Debug\NetworkNode.cs.exe
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\NetworkNode.cs\bin\Debug\NetworkNode.cs.pdb
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\NetworkNode.cs\obj\Debug\NetworkNode.cs.exe
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\NetworkNode.cs\obj\Debug\NetworkNode.cs.pdb
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\NetworkNode.cs\obj\Debug\NetworkNode.cs.csprojResolveAssemblyReference.cache

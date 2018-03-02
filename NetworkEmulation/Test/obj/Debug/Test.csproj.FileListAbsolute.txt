@@ -1,0 +1,134 @@
+C:\Users\Damian\Desktop\TSST nasz\NetworkEmulation\Test\bin\Debug\Test.exe.config
+C:\Users\Damian\Desktop\TSST nasz\NetworkEmulation\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\TSST nasz\NetworkEmulation\Test\bin\Debug\Test.exe
+C:\Users\Damian\Desktop\TSST nasz\NetworkEmulation\Test\bin\Debug\Test.pdb
+C:\Users\Damian\Desktop\TSST nasz\NetworkEmulation\Test\bin\Debug\ClientNode.exe
+C:\Users\Damian\Desktop\TSST nasz\NetworkEmulation\Test\bin\Debug\ClientNode.pdb
+C:\Users\Damian\Desktop\TSST nasz\NetworkEmulation\Test\obj\Debug\Test.exe
+C:\Users\Damian\Desktop\TSST nasz\NetworkEmulation\Test\obj\Debug\Test.pdb
+E:\Piotr\Programowanie\C#\TSST-Project.git\branches\Piotrek\NetworkEmulation\Test\bin\Debug\Test.exe.config
+E:\Piotr\Programowanie\C#\TSST-Project.git\branches\Piotrek\NetworkEmulation\Test\bin\Debug\Test.exe
+E:\Piotr\Programowanie\C#\TSST-Project.git\branches\Piotrek\NetworkEmulation\Test\bin\Debug\Test.pdb
+E:\Piotr\Programowanie\C#\TSST-Project.git\branches\Piotrek\NetworkEmulation\Test\bin\Debug\ClientNode.exe
+E:\Piotr\Programowanie\C#\TSST-Project.git\branches\Piotrek\NetworkEmulation\Test\bin\Debug\ClientNode.pdb
+E:\Piotr\Programowanie\C#\TSST-Project.git\branches\Piotrek\NetworkEmulation\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Piotr\Programowanie\C#\TSST-Project.git\branches\Piotrek\NetworkEmulation\Test\obj\Debug\Test.exe
+E:\Piotr\Programowanie\C#\TSST-Project.git\branches\Piotrek\NetworkEmulation\Test\obj\Debug\Test.pdb
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST\NetworkEmulation\Test\bin\Debug\Test.exe.config
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST\NetworkEmulation\Test\bin\Debug\Test.exe
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST\NetworkEmulation\Test\bin\Debug\Test.pdb
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST\NetworkEmulation\Test\bin\Debug\ClientNode.exe
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST\NetworkEmulation\Test\bin\Debug\ClientNode.pdb
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST\NetworkEmulation\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST\NetworkEmulation\Test\obj\Debug\Test.exe
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST\NetworkEmulation\Test\obj\Debug\Test.pdb
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\Test\obj\Debug\Test.exe
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\Test\obj\Debug\Test.pdb
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\Test\bin\Debug\Test.exe.config
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\Test\bin\Debug\Test.exe
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\Test\bin\Debug\Test.pdb
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\Test\bin\Debug\ClientNode.exe
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\Test\bin\Debug\NetworkingTools.exe
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\Test\bin\Debug\ClientNode.pdb
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\TSST_17z\TSST_EON\NetworkEmulation\Test\bin\Debug\NetworkingTools.pdb
+E:\SEMESTR 5\TSST\NetworkEmulation\Test\bin\Debug\Test.exe.config
+E:\SEMESTR 5\TSST\NetworkEmulation\Test\bin\Debug\Test.exe
+E:\SEMESTR 5\TSST\NetworkEmulation\Test\bin\Debug\Test.pdb
+E:\SEMESTR 5\TSST\NetworkEmulation\Test\bin\Debug\ClientNode.exe
+E:\SEMESTR 5\TSST\NetworkEmulation\Test\bin\Debug\NetworkingTools.exe
+E:\SEMESTR 5\TSST\NetworkEmulation\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\SEMESTR 5\TSST\NetworkEmulation\Test\bin\Debug\ClientNode.pdb
+E:\SEMESTR 5\TSST\NetworkEmulation\Test\bin\Debug\NetworkingTools.pdb
+E:\SEMESTR 5\TSST\NetworkEmulation\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\SEMESTR 5\TSST\NetworkEmulation\Test\obj\Debug\Test.exe
+E:\SEMESTR 5\TSST\NetworkEmulation\Test\obj\Debug\Test.pdb
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\Test\bin\Debug\Test.exe.config
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\Test\bin\Debug\Test.exe
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\Test\bin\Debug\Test.pdb
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\Test\bin\Debug\ClientNode.exe
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\Test\bin\Debug\NetworkingTools.exe
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\Test\bin\Debug\ClientNode.pdb
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\Test\bin\Debug\NetworkingTools.pdb
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\Test\obj\Debug\Test.exe
+D:\TSST_nowe\Piotrek - lepiej działający router\NetworkEmulation\Test\obj\Debug\Test.pdb
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\Test\bin\Debug\Test.exe.config
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\Test\bin\Debug\Test.exe
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\Test\bin\Debug\Test.pdb
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\Test\bin\Debug\ClientNode.exe
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\Test\bin\Debug\NetworkingTools.exe
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\Test\bin\Debug\ClientNode.pdb
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\Test\bin\Debug\NetworkingTools.pdb
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\Test\obj\Debug\Test.exe
+C:\Users\Damian\Desktop\działająca_komunikacja_NCC+CPCC\Piotrek - lepiej działający router\NetworkEmulation\Test\obj\Debug\Test.pdb
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\Test\bin\Debug\Test.exe.config
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\Test\bin\Debug\Test.exe
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\Test\bin\Debug\Test.pdb
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\Test\bin\Debug\ClientNode.exe
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\Test\bin\Debug\NetworkingTools.exe
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\Test\bin\Debug\ClientNode.pdb
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\Test\bin\Debug\NetworkingTools.pdb
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\Test\obj\Debug\Test.exe
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\Sklejany\NetworkEmulation\Test\obj\Debug\Test.pdb
+C:\Users\Daniel\Dropbox\tsst-project\Sklejany\NetworkEmulation\Test\bin\Debug\Test.exe.config
+C:\Users\Daniel\Dropbox\tsst-project\Sklejany\NetworkEmulation\Test\obj\Debug\Test.exe
+C:\Users\Daniel\Dropbox\tsst-project\Sklejany\NetworkEmulation\Test\obj\Debug\Test.pdb
+C:\Users\Daniel\Dropbox\tsst-project\Sklejany\NetworkEmulation\Test\bin\Debug\Test.exe
+C:\Users\Daniel\Dropbox\tsst-project\Sklejany\NetworkEmulation\Test\bin\Debug\Test.pdb
+C:\Users\Daniel\Dropbox\tsst-project\Sklejany\NetworkEmulation\Test\bin\Debug\ClientNode.exe
+C:\Users\Daniel\Dropbox\tsst-project\Sklejany\NetworkEmulation\Test\bin\Debug\NetworkingTools.exe
+C:\Users\Daniel\Dropbox\tsst-project\Sklejany\NetworkEmulation\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Daniel\Dropbox\tsst-project\Sklejany\NetworkEmulation\Test\bin\Debug\ClientNode.pdb
+C:\Users\Daniel\Dropbox\tsst-project\Sklejany\NetworkEmulation\Test\bin\Debug\NetworkingTools.pdb
+C:\Users\Daniel\Dropbox\tsst-project\Sklejany\NetworkEmulation\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Paweł\Dropbox\tsst-project\Sklejany\NetworkEmulation\Test\bin\Debug\Test.exe.config
+C:\Users\Paweł\Dropbox\tsst-project\Sklejany\NetworkEmulation\Test\bin\Debug\Test.exe
+C:\Users\Paweł\Dropbox\tsst-project\Sklejany\NetworkEmulation\Test\bin\Debug\Test.pdb
+C:\Users\Paweł\Dropbox\tsst-project\Sklejany\NetworkEmulation\Test\bin\Debug\ClientNode.exe
+C:\Users\Paweł\Dropbox\tsst-project\Sklejany\NetworkEmulation\Test\bin\Debug\NetworkingTools.exe
+C:\Users\Paweł\Dropbox\tsst-project\Sklejany\NetworkEmulation\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Paweł\Dropbox\tsst-project\Sklejany\NetworkEmulation\Test\bin\Debug\ClientNode.pdb
+C:\Users\Paweł\Dropbox\tsst-project\Sklejany\NetworkEmulation\Test\bin\Debug\NetworkingTools.pdb
+C:\Users\Paweł\Dropbox\tsst-project\Sklejany\NetworkEmulation\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Paweł\Dropbox\tsst-project\Sklejany\NetworkEmulation\Test\obj\Debug\Test.exe
+C:\Users\Paweł\Dropbox\tsst-project\Sklejany\NetworkEmulation\Test\obj\Debug\Test.pdb
+C:\Users\Paweł\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\bin\Debug\Test.exe.config
+C:\Users\Paweł\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\obj\Debug\Test.exe
+C:\Users\Paweł\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\obj\Debug\Test.pdb
+C:\Users\Paweł\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\bin\Debug\Test.exe
+C:\Users\Paweł\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\bin\Debug\Test.pdb
+C:\Users\Paweł\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\bin\Debug\ClientNode.exe
+C:\Users\Paweł\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\bin\Debug\NetworkingTools.exe
+C:\Users\Paweł\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Paweł\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\bin\Debug\ClientNode.pdb
+C:\Users\Paweł\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\bin\Debug\NetworkingTools.pdb
+C:\Users\Paweł\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\bin\Debug\Test.exe.config
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\obj\Debug\Test.exe
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\obj\Debug\Test.pdb
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\bin\Debug\Test.exe
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\bin\Debug\Test.pdb
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\bin\Debug\ClientNode.exe
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\bin\Debug\NetworkingTools.exe
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\bin\Debug\ClientNode.pdb
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\bin\Debug\NetworkingTools.pdb
+E:\Dropbox\Piotrka\Przedmioty\Sem5\TSST\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\bin\Debug\Test.exe.config
+C:\Users\Damian\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\bin\Debug\Test.exe
+C:\Users\Damian\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\bin\Debug\Test.pdb
+C:\Users\Damian\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\bin\Debug\ClientNode.exe
+C:\Users\Damian\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\bin\Debug\NetworkingTools.exe
+C:\Users\Damian\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Damian\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\bin\Debug\ClientNode.pdb
+C:\Users\Damian\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\bin\Debug\NetworkingTools.pdb
+C:\Users\Damian\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\obj\Debug\Test.exe
+C:\Users\Damian\Dropbox\tsst-project\DANIEL\Sklejany\NetworkEmulation\Test\obj\Debug\Test.pdb
